@@ -70,19 +70,20 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height     | Decision Instant (Max Q / Min BER) |
+|------|-------------------|-----------------------|----------------------|--------------|---------|---------------|-------------------------------------|
+|   1  |         93        |           6.59        |        -21.8         |   41.6716    |   0     | 1.28771E-05   |      41.6716                        |
+|   2  |         51        |           46.26       |        -13.34        |   111.729    |   0     | 9.31536E-05   |      111.729                        |
+|   3  |         75        |           15.81       |        -18.01        |   59.8393    |   0     | 3.018E-05     |      59.8393                        |
+|   4  |        111        |           2.87        |        -25.41        |   43.3786    |   0     | 5.65923E-05   |      43.3786                        |
+|   5  |        145        |           600.01      |        -32.21        |   20.5073    |   0     | 1.08124E-06   |       20.5073                       |
 
 ---
 
 ## Graphs
 
 *(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33541502-2829-4655-9ce1-acf928272867" />
 
 ---
 
